@@ -2,3 +2,4 @@
 
 hr_analytics dashboard created through power bi by taking a important factor attrition rate.
 Attrition rate refers to the rate at which employees leave an organization over a specified period of time
+varoius factors affecting the attrition rate  are listed listed in this dashboard 
